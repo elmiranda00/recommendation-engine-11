@@ -1,10 +1,5 @@
-# recommendation-engine-11
-Product Recommendation Engine built in a team during a hackathon for the ESSEC x CentraleSupélec DSBA
-
-# hackathon
-Code for the DSBA Eleven Strategy Hackathon Group 2
-
 # Marketing Campaign Planner (Proof of Concept)
+Product Recommendation Engine built as a team effort during a hackathon for the ESSEC x CentraleSupélec DSBA
 
 ## Overview
 This project provides a **Streamlit-based platform** for planning marketing campaigns with **personalized recommendations** for customers. Users can set campaign parameters, generate recommendations, and access insights on campaign performance. 
@@ -61,7 +56,4 @@ To launch a new campaign:
 
 ## License
 This project is a **personal proof of concept** intended for evaluation purposes only. It is not licensed for public distribution, modification, or commercial use.
-
-## Contact
-For questions or contributions, open an issue in this repository.
 
