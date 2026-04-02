@@ -1,5 +1,5 @@
 # Marketing Campaign Planner (Proof of Concept)
-Product Recommendation Engine built as a team effort during a hackathon for the ESSEC x CentraleSupélec DSBA
+Product Recommendation Engine built as a team effort during a Masters hackathon
 
 ## Overview
 This project provides a **Streamlit-based platform** for planning marketing campaigns with **personalized recommendations** for customers. Users can set campaign parameters, generate recommendations, and access insights on campaign performance. 
